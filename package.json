@@ -1,0 +1,17 @@
+{
+  "name": "youtubeapp",
+  "version": "1.0.0",
+  "description": "create youtube app based on ExpressJS and NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "Express",
+    "Node",
+    "FullStack"
+  ],
+  "author": "Aniket Doke",
+  "license": "ISC"
+}
